@@ -1,4 +1,4 @@
-# SPA реакт-приложения
+# SPA реакт-приложениe
 
 Ссылка gh page - https://nicksimak91.github.io/spa-react-food/
 
